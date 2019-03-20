@@ -20,7 +20,4 @@ http://134.209.144.7/content
 To see the output with all the contents of economy page as well, go to:
 http://134.209.144.7/content?category=business/economy
 
-Similarly for science content do:
-http://134.209.144.7/content?category=science
-
 To implement this locally, install docker and then do docker-compose up in your directory.
